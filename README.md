@@ -12,10 +12,10 @@
     <b> <p> Inquiry:</b> Have you ever wondered if salaries vary widely based on performance rates? We know there is no standard performance rate, but could there be an average performance rate that correlates with salary in the software engineering world? </p> 
     <b> <p> Tools & Methods:</b> Postgresql Group By, Window Functions and CTEs & a Google Slides Final Report </p>
     <b> <p> Analysis:</b> 
-                <li> </li>
-                <li> </li>
-                <li> </li> 
-                <li> </li>
+                <li> First, within the the "Software Development Department" at BananaByte we want to look at Average Salaries of the following roles: Software Architect, Software Engineer, Senior Software Engineer, Frontend Developer, Backend Developer and Mobile Application Developer </li>
+                <li> Then, we want to rank each employee in each role by MIN and MAX Salaries, we'll see if the Max salaries correlate with higher performance scores within the software development department. </li>
+                <li> Lastly, we'll join these salaries with the Glassdoor Software Engineers with the same titles and see if their higher salaries also correlate with similar performance scores </li> 
+                <li> Because the Glassdoor data may not have the specific title "Software Architect" that does not mean this role doesn not exist in the Glassdoor data, but rather it is specific such as Senior IOS Architect and Android Architect. </li>
                 <li> </li>
                 <li> </li>
 <br></br>
