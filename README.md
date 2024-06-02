@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1> How do BananaByte Software Engineers' salaries and performance differ from other companies? </h1>
-        <p> This is a Posgresql project that seeks to answer this question using both BananaByte Employees Average Salaries and Performance and those of Glassdoor. </p>
+        <p> This is a Postgresql project that seeks to answer this question using both BananaByte Employees Average Salaries and Performance and those of Glassdoor. </p>
     <b> <p> Inquiry:</b> Have you ever wondered if salaries vary widely based on performance rates? We know there is no standard performance rate, but could there be an average performance rate that correlates with salary in the software engineering world? </p> 
     <b> <p> Tools & Methods:</b> Postgresql Group By, Window Functions and CTEs & a Google Slides Final Report </p>
     <b> <p> Analysis:</b> 
