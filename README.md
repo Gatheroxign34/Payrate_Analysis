@@ -16,6 +16,6 @@
                 <li> Then, we want to rank each employee's salary in each role listed by average salary. </li>
                 <li> The next step is to look at average salaries of Glassdoor Software Engineers with the same titles </li> 
                 <li> One caveat of note is naming conventions, the name "Software Architect" does not exist in the Glassdoor data, but rather it is more specific such as Senior IOS Architect and Android Architect. In SQL we have to group these roles together, so this grouping affects how we describe our results; we are not completely sure if BananaByte  software engineers are IOS, Windows or Linux Architects (since BananaByte is a fictional company) </li>
-                <li> But, the point of this analysis is to predict if the average salary of company like BananaByte differs from actual average salaries of these roles. We could always sustitute in a real company and perform this same analysis. </li>
-                <li> Another note here, we are not looking to make any claims about the entire population of software engineers' salaries so we would not want to do an independent t-test here.</li>
+                <li> But, the point of this analysis is to predict if the average salary of a company like BananaByte differs from actual average salaries of these roles. We could always sustitute in a real company and perform this same analysis. </li>
+                <li> Another note here, we are not looking to make any claims about the entire population of software engineers' salaries, so we would not want to do an independent t-test here.</li>
 <br></br>
