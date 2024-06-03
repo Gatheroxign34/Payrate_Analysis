@@ -25,3 +25,11 @@ FROM
 	employees;  
 
 /** This query was run to look at each individual employee's salary within the department of Software Development**/
+
+SELECT "Job_Title" AS "Role"
+FROM "Glassdoor"
+WHERE "Job_Title" LIKE '%Architect'
+
+/** This query was run to look at just the group of software engineers with "Architect" in the name **/
+
+
